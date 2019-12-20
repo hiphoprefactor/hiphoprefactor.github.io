@@ -11,4 +11,6 @@ Contributing to Hip Hop Refactor is easy and encouraged.
     - NOTE: Make sure to grab the embedded code snippets for your Gist and Youtube video.
 - Submit a PR
 
+- If you want to go the extra mile, test your changes locally first: https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll
+
 
