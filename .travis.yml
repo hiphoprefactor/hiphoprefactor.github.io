@@ -1,4 +1,4 @@
 language: ruby
 rvm:
   - 2.6.5
-script: "bundle exec jekyll build"
+script: "bundle exec jekyll build && bundle exec htmlproofer --empty-alt-ignore ./_site"
